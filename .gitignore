@@ -1,0 +1,7 @@
+alwaysai.target.json
+alwaysai.project.json
+__pycache__
+venv
+models
+audio.mp3
+.env
